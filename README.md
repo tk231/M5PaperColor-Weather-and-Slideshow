@@ -124,4 +124,3 @@ and checks that the written instructions match the code. See [test/README.md](te
 * Built on [M5Unified](https://github.com/m5stack/M5Unified), [M5GFX](https://github.com/m5stack/M5GFX) (which includes the QR code and PNG
   decoders) and [M5PM1](https://github.com/m5stack/M5PM1). The hardware set-up follows M5Stack's factory firmware
   ([M5PaperColor-UserDemo](https://github.com/m5stack/M5PaperColor-UserDemo)), which is also the reference for the "Panel" colour mode of the picture editor.
-* **License: not chosen yet.** Add a `LICENSE` file before publishing; without one, nobody else may legally reuse the code.
